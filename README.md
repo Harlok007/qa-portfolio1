@@ -12,7 +12,7 @@ Sou estudante de QA e estou aprendendo sobre testes manuais, API, automação e 
 
 ## Projetos incluídos aqui:
 ### 1. Casos de Teste
-- Login em sites (Amazon, OLX)
+- Login em sites (Soucedemo, olx)
 - Pesquisa de produto
 - Formulário de contato
 
