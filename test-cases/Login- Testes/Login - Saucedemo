@@ -1,0 +1,21 @@
+# Relatório de Bugs - SauceDemo
+
+## 🧪 Ambiente de Testes:
+- URL: https://www.saucedemo.com/
+- Navegador: Microsoft Edge
+- Sistema: Windows 10
+
+---
+
+## 🐞 Bug 001 - Erro ao efetuar Login
+
+**Descrição:** Ao utilizar o usuario "locked_out_user" o usuario não poderá efetuar o login.
+**Passos:**
+1. Fazer login com `locked_out_user`
+2. Adicionar a senha `secret_sauce`
+
+**Resultado Esperado:** Entrar na tela de login  
+**Resultado Obtido:** Recebimento da seguinte mensagem "Epic sadface: Sorry, this user has been locked out."  
+**Severidade:** Alta 
+**Status:** Aberto
+
