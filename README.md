@@ -1,4 +1,4 @@
-# Portfólio de QA - Seu Nome
+# Portfólio de QA - João Guilherme 
 
 Bem-vindo ao meu portfólio de testes de software!  
 Sou estudante de QA e estou aprendendo sobre testes manuais, API, automação e qualidade de software.
