@@ -1,10 +1,11 @@
-Relatório de Bugs - `Automationexercise`
+# Relatório de Bugs - Automationexercise
+
 Ambiente de Testes:
 URL: https://automationexercise.com/
 Navegador: Microsoft Edge
 Sistema: Windows 10
 Bug 001 - 
-Descrição: 
+Descrição: Teste para encontrar falhas no site
 Passos:
 
 
