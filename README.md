@@ -6,13 +6,12 @@ Sou estudante de QA e estou aprendendo sobre testes manuais, API, automação e 
 ## Tecnologias e Ferramentas que conheço
 - Testes manuais
 - Jira, Trello
-- Postman (testes de API)
 - TestLink, Google Sheets
 - GitHub
 
 ## Projetos incluídos aqui:
 ### 1. Casos de Teste
-- Login em sites (Soucedemo, olx)
+- Login em sites (Soucedemo)
 - Pesquisa de produto
 - Formulário de contato
 
@@ -20,13 +19,9 @@ Sou estudante de QA e estou aprendendo sobre testes manuais, API, automação e 
 - Bugs encontrados em sites reais (simulados)
 - Inclui descrição, passos para reproduzir, severidade
 
-### 3. Testes de API
-- APIs públicas testadas no Postman
-- Prints e coleções de teste incluídas
-
-### 4. Outros
+### 3. Outros
 - Checklists
-- Prints de Boards do Trello com tarefas simuladas
+- Prints de Boards das tarefas simuladas
 
 ---
 
