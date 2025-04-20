@@ -7,7 +7,7 @@
 
 ---
 
-##  Bug 001 - Produto duplicado no carrinho
+##  Bug 001 - Limite de itens no carrinho
 
 **Descrição:** Ao adicionar um produto, o cliente não pode adicionar mais de uma vez um item no carrinho..
 
@@ -25,7 +25,7 @@
 
 ##  Bug 002 - Checkout de informação não funciona.
 
-**Descrição:** Ao entrar na haba Checkout, o usuario poderá adicionar qualquer nome e Cep que irá constar como correto.
+**Descrição:** Ao entrar na aba Checkout, o usuario poderá adicionar qualquer nome e Cep que irá constar como correto.
 
 **Passos:**
 1. Selecionar item
