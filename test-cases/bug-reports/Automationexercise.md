@@ -63,7 +63,7 @@
 2. Observe que não poderá excluir a quantidade desejada de itens.
 
 **Resultado Esperado:** Exclusão de itens selecionados na sessão  `Shopping Cart`
-**Resultado Obtido:** O usuario não poderá excluir os itens, logo, terá que exluir da `Shopping Cart` e adicionar o valor desejado.  
+**Resultado Obtido:** O usuario não poderá excluir os itens, logo, terá que excluir da `Shopping Cart` e adicionar o valor desejado.  
 **Severidade:** Baixa 
 **Status:** Aberto
 
